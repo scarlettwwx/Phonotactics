@@ -1,11 +1,10 @@
 # Phonotactics
 
+ 
+
+This folder includes the codes for hosting the phonotactics experiment on firebase and generating audio stimuli from IPA through Amazon Polly. A Demo can be played here: https://scarlettwwx.github.io/ 
+
   
-
-This folder includes the codes for hosting the phonotactics experiment on firebase and generating audio stimuli from IPA through Amazon Polly
-
-  
-
 ## Installation
 
   
